@@ -1,0 +1,13 @@
+current directory: /home/unimelb.edu.au/lcampoli/Templates/hypersocks.team.github.io/architect/vendor/bundle/ruby/2.5.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby2.5 -r ./siteconf20240411-32304-gbp3e0.rb extconf.rb
+creating Makefile
+
+current directory: /home/unimelb.edu.au/lcampoli/Templates/hypersocks.team.github.io/architect/vendor/bundle/ruby/2.5.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/unimelb.edu.au/lcampoli/Templates/hypersocks.team.github.io/architect/vendor/bundle/ruby/2.5.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/unimelb.edu.au/lcampoli/Templates/hypersocks.team.github.io/architect/vendor/bundle/ruby/2.5.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
